@@ -1,0 +1,32 @@
+aid: longdo-map
+name: Longdo Map
+description: "Interactive map with detailed places and information portal in Thailand"
+url: https://map.longdo.com/docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Longdo Map
+    description: "Interactive map with detailed places and information portal in Thailand"
+    humanURL: https://map.longdo.com/docs/
+    baseURL: https://map.longdo.com/docs/
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://map.longdo.com/docs/
+common:
+  - type: Website
+    url: https://map.longdo.com/docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
