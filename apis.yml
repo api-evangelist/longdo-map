@@ -39,7 +39,6 @@ apis:
   - name: Longdo Map
     description: "Interactive map with detailed places and information portal in Thailand"
     humanURL: https://map.longdo.com/docs/
-    baseURL: https://map.longdo.com/docs/
     tags:
       - Geocoding
     properties:
